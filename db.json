@@ -1,0 +1,47 @@
+{
+  "colleges": [
+    {
+      "id": 1,
+      "country": "India",
+      "state-province": "Telangana",
+      "name": "Kits"
+    },
+    {
+      "name": "NIT",
+      "country": "India",
+      "state-province": "Telangana",
+      "id": 2
+    },
+    {
+      "name": "SR",
+      "country": "India",
+      "state-province": "Telangana",
+      "id": 3
+    },
+    {
+      "name": "VGV",
+      "country": "India",
+      "state-province": "Telangana",
+      "id": 4
+    },
+    {
+      "name": "BITS",
+      "country": "India",
+      "state-province": "Telangana",
+      "id": 5
+    },
+    {
+      "name": "svs",
+      "country": "India",
+      "state-province": "Telangana",
+      "id": 6
+    },
+    {
+      "name": "SNR",
+      "country": "India",
+      "state-province": "Telangana",
+      "id": 7
+    }
+    
+  ]
+}
